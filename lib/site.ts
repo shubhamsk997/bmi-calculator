@@ -1,0 +1,2 @@
+export const site = { name: "BMI Index Calculator", url: process.env.NEXT_PUBLIC_SITE_URL || "https://example.com", description: "A clear, evidence-informed BMI calculator with healthy weight guidance for adults.", author: "Elena Morris, CHCW", reviewer: "Dr. Daniel Chen, MD" };
+export const nav = [{href:"/bmi-calculator",label:"Calculator"},{href:"/about",label:"BMI Guide"},{href:"/bmi-men",label:"For men"},{href:"/bmi-women",label:"For women"},{href:"/contact",label:"Contact"}];
