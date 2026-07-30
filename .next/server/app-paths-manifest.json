@@ -1,12 +1,6 @@
 {
+  "/_global-error/page": "app/_global-error/page.js",
   "/_not-found/page": "app/_not-found/page.js",
-  "/sitemap.xml/route": "app/sitemap.xml/route.js",
-  "/robots.txt/route": "app/robots.txt/route.js",
-  "/contact/page": "app/contact/page.js",
-  "/disclaimer/page": "app/disclaimer/page.js",
-  "/page": "app/page.js",
-  "/privacy-policy/page": "app/privacy-policy/page.js",
-  "/terms/page": "app/terms/page.js",
   "/about/page": "app/about/page.js",
   "/blog/[slug]/page": "app/blog/[slug]/page.js",
   "/blog/page": "app/blog/page.js",
@@ -14,5 +8,12 @@
   "/bmi-calculator/page": "app/bmi-calculator/page.js",
   "/bmi-men/page": "app/bmi-men/page.js",
   "/bmi-women/page": "app/bmi-women/page.js",
-  "/bmi/[height]-cm-[weight]-kg/page": "app/bmi/[height]-cm-[weight]-kg/page.js"
+  "/bmi/[height]-cm-[weight]-kg/page": "app/bmi/[height]-cm-[weight]-kg/page.js",
+  "/contact/page": "app/contact/page.js",
+  "/disclaimer/page": "app/disclaimer/page.js",
+  "/page": "app/page.js",
+  "/privacy-policy/page": "app/privacy-policy/page.js",
+  "/robots.txt/route": "app/robots.txt/route.js",
+  "/sitemap.xml/route": "app/sitemap.xml/route.js",
+  "/terms/page": "app/terms/page.js"
 }

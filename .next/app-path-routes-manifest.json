@@ -1,12 +1,6 @@
 {
+  "/_global-error/page": "/_global-error",
   "/_not-found/page": "/_not-found",
-  "/sitemap.xml/route": "/sitemap.xml",
-  "/robots.txt/route": "/robots.txt",
-  "/contact/page": "/contact",
-  "/disclaimer/page": "/disclaimer",
-  "/page": "/",
-  "/privacy-policy/page": "/privacy-policy",
-  "/terms/page": "/terms",
   "/about/page": "/about",
   "/blog/[slug]/page": "/blog/[slug]",
   "/blog/page": "/blog",
@@ -14,5 +8,12 @@
   "/bmi-calculator/page": "/bmi-calculator",
   "/bmi-men/page": "/bmi-men",
   "/bmi-women/page": "/bmi-women",
-  "/bmi/[height]-cm-[weight]-kg/page": "/bmi/[height]-cm-[weight]-kg"
+  "/bmi/[height]-cm-[weight]-kg/page": "/bmi/[height]-cm-[weight]-kg",
+  "/contact/page": "/contact",
+  "/disclaimer/page": "/disclaimer",
+  "/page": "/",
+  "/privacy-policy/page": "/privacy-policy",
+  "/robots.txt/route": "/robots.txt",
+  "/sitemap.xml/route": "/sitemap.xml",
+  "/terms/page": "/terms"
 }
